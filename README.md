@@ -4,5 +4,3 @@
 Search,Depth First Search work.
 
 • Implemented graph algorithms in Python and used graphics in Pygame to demonstrate how those algorithms work.
-
-Reference:https://youtu.be/JtiK0DOeI4A
